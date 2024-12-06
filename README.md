@@ -3,7 +3,7 @@ pour executer le projet il faut:
 -> ouvrir votre serveur local
 -> lancer le serveur et MySQL
 -> impoter la base de donnees list_taches.sql dans votre gestionnaire de base de donnees (moi j'utilise phpmyadmin de xampp)
--> deplacer le dossier backend dans htdocs
+-> creer un dossier backend dans htdocs et deplacer les dossiers api et config dans ce dossier
 -> le dossier Legionweb pourrait etre place sur le bureau
 -> ouvrir le dossier ...\Legionweb\Liste_taches\Frontend\liste_taches
 -> sur la barre de recherche saisir cmd + enter
